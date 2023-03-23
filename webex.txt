@@ -1,0 +1,50 @@
+config firewall address
+    edit webex_23.89.0.0/16
+        set subnet 23.89.0.0/16
+    next
+    edit webex_85.119.56.0/23
+        set subnet 85.119.56.0/23
+    next
+    edit webex_128.177.14.0/24
+        set subnet 128.177.14.0/24
+    next
+    edit webex_128.177.36.0/24
+        set subnet 128.177.36.0/24
+    next
+    edit webex_135.84.168.0/21
+        set subnet 135.84.168.0/21
+    next
+    edit webex_139.177.64.0/21
+        set subnet 139.177.64.0/21
+    next
+    edit webex_139.177.72.0/23
+        set subnet 139.177.72.0/23
+    next
+    edit webex_150.253.209.128/25
+        set subnet 150.253.209.128/25
+    next
+    edit webex_170.72.0.0/16
+        set subnet 170.72.0.0/16
+    next
+    edit webex_170.133.128.0/18
+        set subnet 170.133.128.0/18
+    next
+    edit webex_185.115.196.0/22
+        set subnet 185.115.196.0/22
+    next
+    edit webex_199.59.64.0/21
+        set subnet 199.59.64.0/21
+    next
+    edit webex_199.19.196.0/23
+        set subnet 199.19.196.0/23
+    next
+    edit webex_199.19.199.0/24
+        set subnet 199.19.199.0/24
+    next
+end
+
+config firewall addrgrp
+    edit Webex-group
+        set member webex_23.89.0.0/16 webex_85.119.56.0/23 webex_128.177.14.0/24 webex_128.177.36.0/24 webex_135.84.168.0/21 webex_139.177.64.0/21 webex_139.177.72.0/23 webex_150.253.209.128/25 webex_170.72.0.0/16 webex_170.133.128.0/18 webex_185.115.196.0/22 webex_199.59.64.0/21 webex_199.19.196.0/23 webex_199.19.199.0/24
+    next
+end

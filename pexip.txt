@@ -1,0 +1,23 @@
+config firewall address
+    edit pexip_176.121.88.0/21
+        set subnet 176.121.88.0/21
+    next
+    edit pexip_91.240.204.0/22
+        set subnet 91.240.204.0/22
+    next
+    edit pexip_91.240.195.0/24
+        set subnet 91.240.195.0/24
+    next
+    edit pexip_185.94.240.0/22
+        set subnet 185.94.240.0/22
+    next
+    edit pexip_185.124.96.0/22
+        set subnet 185.124.96.0/22
+    next
+end
+
+config firewall addrgrp
+    edit Pexip-group
+        set member pexip_176.121.88.0/21 pexip_91.240.204.0/22 pexip_91.240.195.0/24 pexip_185.94.240.0/22 pexip_185.124.96.0/22
+    next
+end
