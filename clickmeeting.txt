@@ -1,0 +1,359 @@
+config firewall address
+    edit clickmeeting_178.162.201.169/32
+        set subnet 178.162.201.169/32  
+    next
+    edit clickmeeting_178.162.215.17/32
+        set subnet 178.162.215.17/32   
+    next
+    edit clickmeeting_51.83.217.91/32  
+        set subnet 51.83.217.91/32     
+    next
+    edit clickmeeting_91.237.249.13/32 
+        set subnet 91.237.249.13/32    
+    next
+    edit clickmeeting_51.83.236.55/32  
+        set subnet 51.83.236.55/32     
+    next
+    edit clickmeeting_207.244.98.38/32 
+        set subnet 207.244.98.38/32    
+    next
+    edit clickmeeting_85.17.235.22/32  
+        set subnet 85.17.235.22/32     
+    next
+    edit clickmeeting_85.17.235.24/32  
+        set subnet 85.17.235.24/32     
+    next
+    edit clickmeeting_185.130.212.16/32
+        set subnet 185.130.212.16/32   
+    next
+    edit clickmeeting_209.58.173.144/32
+        set subnet 209.58.173.144/32
+    next
+    edit clickmeeting_209.58.173.173/32
+        set subnet 209.58.173.173/32
+    next
+    edit clickmeeting_209.58.163.140/32
+        set subnet 209.58.163.140/32
+    next
+    edit clickmeeting_209.58.163.137/32
+        set subnet 209.58.163.137/32
+    next
+    edit clickmeeting_209.58.163.141/32
+        set subnet 209.58.163.141/32
+    next
+    edit clickmeeting_209.58.183.157/32
+        set subnet 209.58.183.157/32
+    next
+    edit clickmeeting_209.58.183.158/32
+        set subnet 209.58.183.158/32
+    next
+    edit clickmeeting_64.120.91.81/32
+        set subnet 64.120.91.81/32
+    next
+    edit clickmeeting_64.120.91.82/32
+        set subnet 64.120.91.82/32
+    next
+    edit clickmeeting_209.58.170.116/32
+        set subnet 209.58.170.116/32
+    next
+    edit clickmeeting_139.99.221.240/32
+        set subnet 139.99.221.240/32
+    next
+    edit clickmeeting_103.101.129.184/32
+        set subnet 103.101.129.184/32
+    next
+    edit clickmeeting_103.101.129.136/32
+        set subnet 103.101.129.136/32
+    next
+    edit clickmeeting_66.203.112.128/32
+        set subnet 66.203.112.128/32
+    next
+    edit clickmeeting_66.203.112.11/32
+        set subnet 66.203.112.11/32
+    next
+    edit clickmeeting_66.203.112.129/32
+        set subnet 66.203.112.129/32
+    next
+    edit clickmeeting_139.59.155.169/32
+        set subnet 139.59.155.169/32
+    next
+    edit clickmeeting_178.128.245.131/32
+        set subnet 178.128.245.131/32
+    next
+    edit clickmeeting_46.101.210.136/32
+        set subnet 46.101.210.136/32
+    next
+    edit clickmeeting_178.162.215.65/32
+        set subnet 178.162.215.65/32
+    next
+    edit clickmeeting_178.162.215.90/32
+        set subnet 178.162.215.90/32
+    next
+    edit clickmeeting_37.58.48.83/32
+        set subnet 37.58.48.83/32
+    next
+    edit clickmeeting_37.58.48.82/32
+        set subnet 37.58.48.82/32
+    next
+    edit clickmeeting_37.58.48.83/32
+        set subnet 37.58.48.83/32
+    next
+    edit clickmeeting_37.58.48.82/32
+        set subnet 37.58.48.82/32
+    next
+    edit clickmeeting_178.162.215.90/32
+        set subnet 178.162.215.90/32
+    next
+    edit clickmeeting_178.162.215.65/32
+        set subnet 178.162.215.65/32
+    next
+    edit clickmeeting_84.16.232.146/32
+        set subnet 84.16.232.146/32
+    next
+    edit clickmeeting_84.16.232.141/32
+        set subnet 84.16.232.141/32
+    next
+    edit clickmeeting_84.16.232.145/32
+        set subnet 84.16.232.145/32
+    next
+    edit clickmeeting_178.162.201.246/32
+        set subnet 178.162.201.246/32
+    next
+    edit clickmeeting_178.162.201.244/32
+        set subnet 178.162.201.244/32
+    next
+    edit clickmeeting_178.162.201.247/32
+        set subnet 178.162.201.247/32
+    next
+    edit clickmeeting_51.83.236.55/32
+        set subnet 51.83.236.55/32
+    next
+    edit clickmeeting_51.83.236.56/32
+        set subnet 51.83.236.56/32
+    next
+    edit clickmeeting_84.16.230.120/32
+        set subnet 84.16.230.120/32
+    next
+    edit clickmeeting_51.89.97.57/32
+        set subnet 51.89.97.57/32
+    next
+    edit clickmeeting_51.89.96.226/32
+        set subnet 51.89.96.226/32
+    next
+    edit clickmeeting_51.91.80.114/32
+        set subnet 51.91.80.114/32
+    next
+    edit clickmeeting_51.178.75.191/32
+        set subnet 51.178.75.191/32
+    next
+    edit clickmeeting_51.91.152.83/32
+        set subnet 51.91.152.83/32
+    next
+    edit clickmeeting_51.91.152.84/32
+        set subnet 51.91.152.84/32
+    next
+    edit clickmeeting_31.192.111.157/32
+        set subnet 31.192.111.157/32
+    next
+    edit clickmeeting_31.192.111.137/32
+        set subnet 31.192.111.137/32
+    next
+    edit clickmeeting_31.192.111.158/32
+        set subnet 31.192.111.158/32
+    next
+    edit clickmeeting_91.218.115.131/32
+        set subnet 91.218.115.131/32
+    next
+    edit clickmeeting_91.218.115.177/32
+        set subnet 91.218.115.177/32
+    next
+    edit clickmeeting_91.237.249.64/32
+        set subnet 91.237.249.64/32
+    next
+    edit clickmeeting_31.192.105.74/32
+        set subnet 31.192.105.74/32
+    next
+    edit clickmeeting_31.192.105.85/32
+        set subnet 31.192.105.85/32
+    next
+    edit clickmeeting_134.209.198.132/32
+        set subnet 134.209.198.132/32
+    next
+    edit clickmeeting_66.248.204.77/32
+        set subnet 66.248.204.77/32
+    next
+    edit clickmeeting_37.48.83.18/32
+        set subnet 37.48.83.18/32
+    next
+    edit clickmeeting_37.48.83.11/32
+        set subnet 37.48.83.11/32
+    next
+    edit clickmeeting_37.48.83.11/32
+        set subnet 37.48.83.11/32
+    next
+    edit clickmeeting_95.211.243.34/32
+        set subnet 95.211.243.34/32
+    next
+    edit clickmeeting_95.211.243.35/32
+        set subnet 95.211.243.35/32
+    next
+    edit clickmeeting_95.211.243.33/32
+        set subnet 95.211.243.33/32
+    next
+    edit clickmeeting_51.83.217.89/32
+        set subnet 51.83.217.89/32
+    next
+    edit clickmeeting_51.83.238.112/32
+        set subnet 51.83.238.112/32
+    next
+    edit clickmeeting_51.83.239.84/32
+        set subnet 51.83.239.84/32
+    next
+    edit clickmeeting_137.74.6.235/32
+        set subnet 137.74.6.235/32
+    next
+    edit clickmeeting_51.83.239.92/32
+        set subnet 51.83.239.92/32
+    next
+    edit clickmeeting_51.83.239.93/32
+        set subnet 51.83.239.93/32
+    next
+    edit clickmeeting_51.83.239.94/32
+        set subnet 51.83.239.94/32
+    next
+    edit clickmeeting_51.83.239.95/32
+        set subnet 51.83.239.95/32
+    next
+    edit clickmeeting_51.83.239.96/32
+        set subnet 51.83.239.96/32
+    next
+    edit clickmeeting_51.83.236.58/32
+        set subnet 51.83.236.58/32
+    next
+    edit clickmeeting_51.83.236.57/32
+        set subnet 51.83.236.57/32
+    next
+    edit clickmeeting_51.83.236.54/32
+        set subnet 51.83.236.54/32
+    next
+    edit clickmeeting_51.83.223.63/32
+        set subnet 51.83.223.63/32
+    next
+    edit clickmeeting_51.83.217.87/32
+        set subnet 51.83.217.87/32
+    next
+    edit clickmeeting_51.83.239.133/32
+        set subnet 51.83.239.133/32
+    next
+    edit clickmeeting_51.83.223.64/32
+        set subnet 51.83.223.64/32
+    next
+    edit clickmeeting_51.83.223.66/32
+        set subnet 51.83.223.66/32
+    next
+    edit clickmeeting_51.83.217.88/32
+        set subnet 51.83.217.88/32
+    next
+    edit clickmeeting_51.195.4.54/32
+        set subnet 51.195.4.54/32
+    next
+    edit clickmeeting_51.195.4.53/32
+        set subnet 51.195.4.53/32
+    next
+    edit clickmeeting_51.77.42.147/32
+        set subnet 51.77.42.147/32
+    next
+    edit clickmeeting_51.83.238.237/32
+        set subnet 51.83.238.237/32
+    next
+    edit clickmeeting_51.83.238.238/32
+        set subnet 51.83.238.238/32
+    next
+    edit clickmeeting_51.83.239.80/32
+        set subnet 51.83.239.80/32
+    next
+    edit clickmeeting_51.83.239.81/32
+        set subnet 51.83.239.81/32
+    next
+    edit clickmeeting_146.59.9.232/32
+        set subnet 146.59.9.232/32
+    next
+    edit clickmeeting_51.83.239.83/32
+        set subnet 51.83.239.83/32
+    next
+    edit clickmeeting_137.74.7.206/32
+        set subnet 137.74.7.206/32
+    next
+    edit clickmeeting_134.122.104.98/32
+        set subnet 134.122.104.98/32
+    next
+    edit clickmeeting_64.227.46.125/32
+        set subnet 64.227.46.125/32
+    next
+    edit clickmeeting_95.168.183.107/32
+        set subnet 95.168.183.107/32
+    next
+    edit clickmeeting_95.168.185.138/32
+        set subnet 95.168.185.138/32
+    next
+    edit clickmeeting_95.168.185.137/32
+        set subnet 95.168.185.137/32
+    next
+    edit clickmeeting_95.168.185.138/32
+        set subnet 95.168.185.138/32
+    next
+    edit clickmeeting_95.168.185.137/32
+        set subnet 95.168.185.137/32
+    next
+    edit clickmeeting_51.89.152.193/32
+        set subnet 51.89.152.193/32
+    next
+    edit clickmeeting_51.89.152.202/32
+        set subnet 51.89.152.202/32
+    next
+    edit clickmeeting_177.54.148.233/32
+        set subnet 177.54.148.233/32
+    next
+    edit clickmeeting_177.54.148.228/32
+        set subnet 177.54.148.228/32
+    next
+    edit clickmeeting_209.58.145.234/32
+        set subnet 209.58.145.234/32
+    next
+    edit clickmeeting_207.244.71.154/32
+        set subnet 207.244.71.154/32
+    next
+    edit clickmeeting_207.244.98.38/32
+        set subnet 207.244.98.38/32
+    next
+    edit clickmeeting_207.244.98.40/32
+        set subnet 207.244.98.40/32
+    next
+    edit clickmeeting_207.244.98.36/32
+        set subnet 207.244.98.36/32
+    next
+    edit clickmeeting_199.58.85.133/32
+        set subnet 199.58.85.133/32
+    next
+    edit clickmeeting_199.58.85.135/32
+        set subnet 199.58.85.135/32
+    next
+    edit clickmeeting_199.58.85.135/32
+        set subnet 199.58.85.135/32
+    next
+    edit clickmeeting_186.233.184.20/32
+        set subnet 186.233.184.20/32
+    next
+    edit clickmeeting_209.58.136.73/32
+        set subnet 209.58.136.73/32
+    next
+    edit clickmeeting_209.58.136.74/32
+        set subnet 209.58.136.74/32
+    next
+end
+
+config firewall addrgrp
+    edit Clickmeeting-group
+        set member clickmeeting_178.162.201.169/32 clickmeeting_178.162.215.17/32 clickmeeting_51.83.217.91/32 clickmeeting_91.237.249.13/32 clickmeeting_85.17.235.22/32 clickmeeting_85.17.235.24/32 clickmeeting_185.130.212.16/32 clickmeeting_209.58.173.144/32 clickmeeting_209.58.173.173/32 clickmeeting_209.58.163.140/32 clickmeeting_209.58.163.137/32 clickmeeting_209.58.163.141/32 clickmeeting_209.58.183.157/32 clickmeeting_209.58.183.158/32 clickmeeting_64.120.91.81/32 clickmeeting_64.120.91.82/32 clickmeeting_209.58.170.116/32 clickmeeting_139.99.221.240/32 clickmeeting_103.101.129.184/32 clickmeeting_103.101.129.136/32 clickmeeting_66.203.112.128/32 clickmeeting_66.203.112.11/32 clickmeeting_66.203.112.129/32 clickmeeting_139.59.155.169/32 clickmeeting_178.128.245.131/32 clickmeeting_46.101.210.136/32 clickmeeting_178.162.215.65/32 clickmeeting_178.162.215.90/32 clickmeeting_37.58.48.83/32 clickmeeting_37.58.48.82/32 clickmeeting_178.162.215.90/32 clickmeeting_178.162.215.65/32 clickmeeting_84.16.232.146/32 clickmeeting_84.16.232.141/32 clickmeeting_84.16.232.145/32 clickmeeting_178.162.201.246/32 clickmeeting_178.162.201.244/32 clickmeeting_178.162.201.247/32 clickmeeting_51.83.236.55/32 clickmeeting_51.83.236.56/32 clickmeeting_84.16.230.120/32 clickmeeting_51.89.97.57/32 clickmeeting_51.89.96.226/32 clickmeeting_51.91.80.114/32 clickmeeting_51.178.75.191/32 clickmeeting_51.91.152.83/32 clickmeeting_51.91.152.84/32 clickmeeting_31.192.111.157/32 clickmeeting_31.192.111.137/32 clickmeeting_31.192.111.158/32 clickmeeting_91.218.115.131/32 clickmeeting_91.218.115.177/32 clickmeeting_91.237.249.64/32 clickmeeting_31.192.105.74/32 clickmeeting_31.192.105.85/32 clickmeeting_134.209.198.132/32 clickmeeting_66.248.204.77/32 clickmeeting_37.48.83.18/32 clickmeeting_37.48.83.11/32 clickmeeting_95.211.243.34/32 clickmeeting_95.211.243.35/32 clickmeeting_95.211.243.33/32 clickmeeting_51.83.217.89/32 clickmeeting_51.83.238.112/32 clickmeeting_51.83.239.84/32 clickmeeting_137.74.6.235/32 clickmeeting_51.83.239.92/32 clickmeeting_51.83.239.93/32 clickmeeting_51.83.239.94/32 clickmeeting_51.83.239.95/32 clickmeeting_51.83.239.96/32 clickmeeting_51.83.236.58/32 clickmeeting_51.83.236.57/32 clickmeeting_51.83.236.54/32 clickmeeting_51.83.223.63/32 clickmeeting_51.83.217.87/32 clickmeeting_51.83.239.133/32 clickmeeting_51.83.223.64/32 clickmeeting_51.83.223.66/32 clickmeeting_51.83.217.88/32 clickmeeting_51.195.4.54/32 clickmeeting_51.195.4.53/32 clickmeeting_51.77.42.147/32 clickmeeting_51.83.238.237/32 clickmeeting_51.83.238.238/32 clickmeeting_51.83.239.80/32 clickmeeting_51.83.239.81/32 clickmeeting_146.59.9.232/32 clickmeeting_51.83.239.83/32 clickmeeting_137.74.7.206/32 clickmeeting_134.122.104.98/32 clickmeeting_64.227.46.125/32 clickmeeting_95.168.183.107/32 clickmeeting_95.168.185.138/32 clickmeeting_95.168.185.137/32 clickmeeting_95.168.185.138/32 clickmeeting_95.168.185.137/32 clickmeeting_51.89.152.193/32 clickmeeting_51.89.152.202/32 clickmeeting_177.54.148.233/32 clickmeeting_177.54.148.228/32 clickmeeting_209.58.145.234/32 clickmeeting_207.244.71.154/32 clickmeeting_207.244.98.38/32 clickmeeting_207.244.98.40/32 clickmeeting_207.244.98.36/32 clickmeeting_199.58.85.133/32 clickmeeting_199.58.85.135/32 clickmeeting_186.233.184.20/32 clickmeeting_209.58.136.73/32 clickmeeting_209.58.136.74/32
+    next
+end
