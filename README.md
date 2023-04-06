@@ -11,3 +11,4 @@ The IP addresses I recive from this sites:
 - Pexip - https://pexip.me/test/firewall
 - Zoom - https://support.zoom.us/hc/en-us/articles/201362683-Zoom-network-firewall-or-proxy-server-settings
 - Teams - https://learn.microsoft.com/en-us/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide#skype-for-business-online-and-microsoft-teams
+- Clickmeeting - https://clickmeeting.com/pl/firewall-configuration
