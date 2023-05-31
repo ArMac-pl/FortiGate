@@ -41,10 +41,54 @@ config firewall address
     edit webex_199.19.199.0/24
         set subnet 199.19.199.0/24
     next
+    edit webex_62.109.192.0/18
+        set subnet 62.109.192.0/18
+    next
+    edit webex_64.68.96.0/19
+        set subnet 64.68.96.0/19
+    next
+    edit webex_66.114.160.0/20
+        set subnet 66.114.160.0/20
+    next
+    edit webex_66.163.32.0/19
+        set subnet 66.163.32.0/19
+    next
+    edit webex_69.26.160.0/19
+        set subnet 69.26.160.0/19
+    next
+    edit webex_114.29.192.0/19
+        set subnet 114.29.192.0/19
+    next
+    edit webex_150.253.128.0/17
+        set subnet 150.253.128.0/17
+    next
+    edit webex_173.39.224.0/19
+        set subnet 173.39.224.0/19
+    next
+    edit webex_173.243.0.0/20
+        set subnet 173.243.0.0/20
+    next
+    edit webex_207.182.160.0/19
+        set subnet 207.182.160.0/19
+    next
+    edit webex_209.197.192.0/19
+        set subnet 209.197.192.0/19
+    next
+    edit webex_210.4.192.0/20
+        set subnet 210.4.192.0/20
+    next
+    edit webex_216.151.128.0/19
+        set subnet 216.151.128.0/19
+    next
+    edit webex_144.196.0.0/16
+        set subnet 144.196.0.0/16
+    next
+    edit webex_163.129.0.0/16
+        set subnet 163.129.0.0/16
 end
 
 config firewall addrgrp
     edit Webex-group
-        set member webex_23.89.0.0/16 webex_85.119.56.0/23 webex_128.177.14.0/24 webex_128.177.36.0/24 webex_135.84.168.0/21 webex_139.177.64.0/21 webex_139.177.72.0/23 webex_150.253.209.128/25 webex_170.72.0.0/16 webex_170.133.128.0/18 webex_185.115.196.0/22 webex_199.59.64.0/21 webex_199.19.196.0/23 webex_199.19.199.0/24
+        set member webex_23.89.0.0/16 webex_85.119.56.0/23 webex_128.177.14.0/24 webex_128.177.36.0/24 webex_135.84.168.0/21 webex_139.177.64.0/21 webex_139.177.72.0/23 webex_150.253.209.128/25 webex_170.72.0.0/16 webex_170.133.128.0/18 webex_185.115.196.0/22 webex_199.59.64.0/21 webex_199.19.196.0/23 webex_199.19.199.0/24 webex_62.109.192.0/18 webex_64.68.96.0/19 webex_66.114.160.0/20 webex_66.163.32.0/19 webex_69.26.160.0/19 webex_114.29.192.0/19 webex_150.253.128.0/17 webex_173.39.224.0/19 webex_173.243.0.0/20 webex_207.182.160.0/19 webex_209.197.192.0/19 webex_210.4.192.0/20 webex_216.151.128.0/19 webex_144.196.0.0/16 webex_163.129.0.0/16
     next
 end
